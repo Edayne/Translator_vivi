@@ -2,7 +2,8 @@ transformers
 datasets
 torch
 soundfile
-read_wav
 librosa
 sounddevice
 wave
+tf_keras
+sentencepiece
