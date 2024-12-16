@@ -7,3 +7,6 @@ sounddevice
 wave
 tf_keras
 sentencepiece
+PortAudio
+pynput
+numpy
